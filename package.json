@@ -19,5 +19,9 @@
   "homepage": "https://github.com/tonjetj/workflow-2#readme",
   "devDependencies": {
     "dotenv": "^16.0.3"
+  },
+  "dependencies": {
+    "build": "^0.1.4",
+    "dist": "^0.1.2"
   }
 }
