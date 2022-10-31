@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tonjetj/workflow-2/issues"
   },
-  "homepage": "https://github.com/tonjetj/workflow-2#readme"
+  "homepage": "https://github.com/tonjetj/workflow-2#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
