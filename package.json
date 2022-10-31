@@ -1,6 +1,6 @@
 {
   "name": "workflow-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Practising Workflow subject until I'm ready to deliver my CA.",
   "main": "index.js",
   "scripts": {
